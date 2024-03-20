@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="SREVER_RMI:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/SREVER_RMI_jar</output-path>
+    <root id="archive" name="SREVER_RMI.jar">
+      <element id="module-output" name="SREVER_RMI" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/Service/Interservice.java" />
+    </root>
+  </artifact>
+</component>
